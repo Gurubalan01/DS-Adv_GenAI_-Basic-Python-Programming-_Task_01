@@ -1,24 +1,24 @@
-What This Project Covers
+**What This Project Covers**
 
 Python variables and data types
 
 Conditional statements (if, elif, else)
 
-Loops (for, while)
+Loops (for)
 
-Functions
+**Functions**
 
 Basic input/output operations
 
 Logical problem-solving using Python
 
-Technologies Used
+**Technologies Used**
 
 Python
 
 Jupyter Notebook
 
-Ideal For
+**Ideal For**
 
 Beginners in Python
 
